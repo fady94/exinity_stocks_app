@@ -158,7 +158,6 @@ flutter test
 ---
 
 ## Project Structure  
-
 lib/
 ├── const/
 ├── core/
@@ -169,24 +168,24 @@ lib/
 │   ├── env/
 │   ├── errors/
 │   ├── local/
-│   │   └── shared_prefernces_helper.dart
+│   │   └── shared_preferences_helper.dart
 │   ├── network/
 │   │   └── cubit/
 │   │       ├── connectivity_cubit.dart
 │   │       └── connectivity_state.dart
 │   ├── resources/
 │   ├── routing/
-│   │       ├── app_router.dart
-│   │       └── app_routes.dart
+│   │   ├── app_router.dart
+│   │   └── app_routes.dart
 │   ├── services/
 │   │   └── websocket/
 │   │       ├── web_socket_service.dart
 │   │       └── bloc/
-|   │           ├── websocket_bloc.dart
-|   │           └── websocket_state.dart
+│   │           ├── websocket_bloc.dart
+│   │           └── websocket_state.dart
 │   ├── usecase/
-│   │       ├── future_use_case.dart
-│   │       └── use_case.dart
+│   │   ├── future_use_case.dart
+│   │   └── use_case.dart
 │   ├── theme/
 │   ├── utilities/
 │   └── services/
