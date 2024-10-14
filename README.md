@@ -90,7 +90,7 @@ Purpose: Fetches details about all available trading instruments (stocks). Used 
 
 
 #### 2.Stock Quote Data
-- Endpoint: **https://finnhub.io/api/v1/stock/symbol?exchange=US&token=cs2h5s1r01qpjum5v210cs2h5s1r01qpjum5v21g**
+- Endpoint: **https://finnhub.io/api/v1/quote?symbol=AAPL&token=cs2h5s1r01qpjum5v210cs2h5s1r01qpjum5v21g**
 - Purpose: Retrieves details about a specific stock, including the current price and last close price. Essential for calculating percentage changes     before establishing a WebSocket connection.
 - Note:So i must call this api before websocket to be able to calculate change percentage
  
