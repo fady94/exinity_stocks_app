@@ -1,0 +1,22 @@
+{
+    "title": "Exinity Stocks App",
+    "price_ticker_connected": "Price Ticker Connected",
+    "price_ticker_disconnected": "Price Ticker Disconnected",
+    "price_ticker_error": "Price Ticker Error",
+    "price_ticker_loading": "Connecting To Price Ticker...",
+    "price_ticker_reconnecting": "Reconnecting To Price Ticker...",
+    "popular": "Popular Stocks ‎️‍🔥",
+    "watchlist": "Watchlist",
+    "search_stocks": "Search Stocks",
+    "failed_to_search_stocks": "Failed To Search Stocks",
+    "search_hint": "ex: Google, Apple, Tesla",
+    "loading_stocks": "Loading Stocks",
+    "no_stocks_found": "No Stocks Found",
+    "stocks": "Stocks",
+    "no_internet_connection": "No Internet Connection", 
+    "retry": "Retry",
+    "watchlist_empty": "Your watchlist is empty.\n Start Searching for favorite stocks then add to watchlist",
+    "server_failure": "Server Failure"
+
+
+}

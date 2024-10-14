@@ -1,0 +1,1 @@
+enum StockType { popular, watchList }
