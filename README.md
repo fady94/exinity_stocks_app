@@ -259,4 +259,4 @@ Given more time, the following enhancements could be implemented:
 ---
 
 This documentation provides a complete overview of the **Exinity App**, including design decisions, setup instructions, key components, testing, and localization. This project is prepared for an **assessment interview**, demonstrating best practices in **Flutter development** with **Bloc state management** and a **feature-based architecture**.
-ate updates for better UI responsiveness.
+
