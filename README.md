@@ -141,7 +141,7 @@ Purpose: Fetches details about all available trading instruments (stocks). Used 
 ### Installation  
 
 1. **Clone the Repository**:  
-   git clone https://github.com/fadygrgs/exinity_app.git
+   git clone https://github.com/fady94/exinity_stocks_app.git
    cd exinity_app
 
 2. **Install Dependencies**:  
