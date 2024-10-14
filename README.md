@@ -22,6 +22,21 @@ The app’s UI is built with Flutter’s widget system, following **Material Des
 
 ---
 
+
+## Screenshot
+
+
+
+![Exinity App Screenshot](https://drive.google.com/file/d/1LYoWjnqZwV0J0odpXSltEeH8oMQCH0cd/view?usp=drive_link)
+
+![Exinity App Screenshot](https://drive.google.com/file/d/1FqDWZ35HBfOXAa-6tQ1eYE3X6E85ISrO/view?usp=drive_link)
+
+![Exinity App Screenshot](https://drive.google.com/file/d/1ugawncr_uCSjY7E9QQxF3WbtX4_7ctCH/view?usp=drive_link)
+
+![Exinity App Screenshot](https://drive.google.com/uc?export=view&id=11RCj-4CHLXRniYH_v4jFATMY9N8MeUd1)
+
+---
+
 ## Key Blocs and Cubits  
 
 - **ConnectivityCubit**  
